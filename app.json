@@ -3,9 +3,7 @@
     "name": "ACME",
     "slug": "ACME",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
   "name": "ACME"
 }
